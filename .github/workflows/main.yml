@@ -1,4 +1,4 @@
-name: Chip-8
+name: Chip-8-
 on:
   push:
     branches:
